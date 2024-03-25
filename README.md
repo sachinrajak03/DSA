@@ -1,1 +1,3 @@
 # DSA
+
+## hellow everyone i have started dsa practice so here is the reposetry you chack out evry questions and contribute on it....
